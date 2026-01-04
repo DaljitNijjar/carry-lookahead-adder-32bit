@@ -30,6 +30,7 @@ This significantly improves speed for wide adders.
 ---
 
 ## File Structure
+```
 carry-lookahead-adder-32bit/
 ├── cla4.sv           # 4-bit carry lookahead adder block
 ├── cla32.sv          # 32-bit CLA built from 8 × cla4 blocks
@@ -37,6 +38,7 @@ carry-lookahead-adder-32bit/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
 
 ---
 
