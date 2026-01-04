@@ -1,0 +1,35 @@
+# =========================
+# Vivado generated files
+# =========================
+*.jou
+*.log
+*.str
+*.zip
+
+.vivado/
+.xsim/
+.sim/
+.runs/
+.cache/
+.hw/
+.ip_user_files/
+.gen/
+
+# =========================
+# Simulation outputs
+# =========================
+*.wdb
+*.vcd
+*.fst
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Backup files
+# =========================
+*~
+*.swp
